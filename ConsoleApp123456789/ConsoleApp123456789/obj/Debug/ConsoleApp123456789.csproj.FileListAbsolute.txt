@@ -1,0 +1,8 @@
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe.config
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.pdb
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.AssemblyReference.cache
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.SuggestedBindingRedirects.cache
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.CoreCompileInputs.cache
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.exe
+C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.pdb

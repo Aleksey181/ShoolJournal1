@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp123456789.SpaceAleksey
 {
-    internal class Class1
+    internal class Subject
     {
+
     }
+
+    internal class Teacher
+    {
+
+    }
+
 }
