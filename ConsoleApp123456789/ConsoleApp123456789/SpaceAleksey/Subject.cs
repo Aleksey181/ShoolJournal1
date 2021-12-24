@@ -16,4 +16,8 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     }
 
+    internal class Group
+    {
+
+    }
 }
