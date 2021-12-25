@@ -37,4 +37,12 @@ namespace ConsoleApp123456789.SpaceAleksey
 
         }
     }
+
+    internal class Marks
+    {
+        public Marks(List<int> allMarks)
+        {
+
+        }
+    }
 }
