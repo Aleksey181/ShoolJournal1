@@ -6,3 +6,10 @@ C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\Conso
 C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.CoreCompileInputs.cache
 C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.exe
 C:\Gitwork\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.pdb
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe.config
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.pdb
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csprojAssemblyReference.cache
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.CoreCompileInputs.cache
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.exe
+C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.pdb

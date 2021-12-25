@@ -8,7 +8,10 @@ namespace ConsoleApp123456789.SpaceAleksey
 {
     internal class Subject
     {
+        public Subject(String name)
+        {
 
+        }
     }
 
     internal class Teacher
