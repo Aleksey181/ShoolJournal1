@@ -18,6 +18,9 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Teacher
     {
+        public Tuple<Subject, Group>[] SubjGroupCombinations { get; set; }
+        private Guid id;
+        public Guid Id { get { return id; } set { id = value; } }
         public Teacher(String name)
         {
 
