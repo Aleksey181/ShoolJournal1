@@ -41,7 +41,10 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Student
     {
-        public Group group;
+        private Guid id;
+        public Guid Id { get { return id; } set { id = value; } }
+        public Marks Marks { get; set; }
+        public Group Group;
         public Student(String name)
         {
 
@@ -50,9 +53,13 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Marks
     {
+        private Guid id;
+        public Guid Id { get { return id; } set { id = value; } }
+        private List<int> marks = new List<int>();
+        public List<int> MarksList { get { return marks; } set { marks = value; } }
         public Marks(List<int> allMarks)
         {
-
+            
         }
     }
 }
