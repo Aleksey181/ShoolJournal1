@@ -32,6 +32,7 @@ namespace ConsoleApp123456789.SpaceAleksey
         private Guid id;
         public Guid Id { get { return id; } set { id = value; } }
         public Student[] Students { get; set; }
+        public Teacher[] Teachers { get; set; }
         public Group(String number)
         {
 
@@ -40,6 +41,7 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Student
     {
+        public Group group;
         public Student(String name)
         {
 
