@@ -16,7 +16,10 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Teacher
     {
+        public Teacher(String name)
+        {
 
+        }
     }
 
     internal class Group
