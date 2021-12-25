@@ -13,3 +13,11 @@ C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleAp
 C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.CoreCompileInputs.cache
 C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.exe
 C:\www\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.pdb
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe.config
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.exe
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\bin\Debug\ConsoleApp123456789.pdb
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.AssemblyReference.cache
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.SuggestedBindingRedirects.cache
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.csproj.CoreCompileInputs.cache
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.exe
+C:\gitLoc\ShoolJournal1\ConsoleApp123456789\ConsoleApp123456789\obj\Debug\ConsoleApp123456789.pdb

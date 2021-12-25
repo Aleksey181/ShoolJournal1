@@ -8,9 +8,11 @@ namespace ConsoleApp123456789.SpaceAleksey
 {
     internal class Subject
     {
+        private Guid id;
+        public Guid Id { get { return id; } set { id = value; } }
         public Subject(String name)
-        {
-
+        { 
+            
         }
     }
 
