@@ -29,6 +29,9 @@ namespace ConsoleApp123456789.SpaceAleksey
 
     internal class Group
     {
+        private Guid id;
+        public Guid Id { get { return id; } set { id = value; } }
+        public Student[] Students { get; set; }
         public Group(String number)
         {
 
