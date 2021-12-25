@@ -29,4 +29,12 @@ namespace ConsoleApp123456789.SpaceAleksey
 
         }
     }
+
+    internal class Student
+    {
+        public Student(String name)
+        {
+
+        }
+    }
 }
